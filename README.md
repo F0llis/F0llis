@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=F0llis&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=Follis&theme=dark&locale=fr&date_format=j%2Fn%5B%2FY%5D&border=EB5454&currStreakNum=EBE7AB" />
+  <img align="center" src="https://streak-stats.demolab.com?user=F0llis&theme=dark&locale=fr&date_format=j%2Fn%5B%2FY%5D&border=EB5454&currStreakNum=EBE7AB" />
 </a>
 
 <!--
