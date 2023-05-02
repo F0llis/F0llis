@@ -2,7 +2,8 @@
 ---
 ### 😺 Présentation
 
-Étudiant en Informatique à L'IUT de la Rochelle en France, je cherche à améliorer et perfectionner mes compétences dans la programmation. 
+Étudiant en Informatique à L'IUT de la Rochelle en France, je cherche à améliorer et perfectionner mes compétences dans la programmation.
+Fan de rétro Gaming et de tout se qui peut toucher de près ou de loin à du vieux matériel informatique 💾
 
 ### 🛠️ Languages Et Outils
 
